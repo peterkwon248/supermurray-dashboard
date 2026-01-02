@@ -1,3 +1,8 @@
 *.json 
 *.db 
 __pycache__/ 
+
+# local / secrets
+*.json
+*.db
+_local_backup/
